@@ -75,3 +75,7 @@ git config --global merge.unityyamlmerge.name "Unity SmartMerge"
 git config --global merge.unityyamlmerge.driver '"/PATH/TO/UnityYAMLMerge" merge -p %O %B %A %A'
 git config --global merge.conflictstyle merge
 ```
+
+## 게임 소개 영상
+
+<video src="KakaoTalk_Video_2026-05-04-22-53-15.mp4" controls width="100%"></video>
